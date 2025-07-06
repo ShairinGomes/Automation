@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-09-11T22:11:37 IST" name="Default suite" finished-at="2024-09-11T22:12:12 IST" duration-ms="35275">
+    <groups>
+    </groups>
+    <test started-at="2024-09-11T22:11:37 IST" name="Default test" finished-at="2024-09-11T22:12:12 IST" duration-ms="35275">
+      <class name="com.test.Mavenpractise2.Multitest2">
+        <test-method is-config="true" signature="firstthing()[pri:0, instance:com.test.Mavenpractise2.Multitest2@ffaa6af]" started-at="2024-09-11T22:11:37 IST" name="firstthing" finished-at="2024-09-11T22:11:50 IST" duration-ms="12492" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- firstthing -->
+        <test-method signature="SelectIndia()[pri:1, instance:com.test.Mavenpractise2.Multitest2@ffaa6af]" started-at="2024-09-11T22:11:50 IST" name="SelectIndia" finished-at="2024-09-11T22:12:06 IST" duration-ms="16728" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SelectIndia -->
+        <test-method signature="FillForm()[pri:2, instance:com.test.Mavenpractise2.Multitest2@ffaa6af]" started-at="2024-09-11T22:12:06 IST" name="FillForm" finished-at="2024-09-11T22:12:12 IST" duration-ms="5838" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FillForm -->
+        <test-method is-config="true" signature="CleanUp()[pri:0, instance:com.test.Mavenpractise2.Multitest2@ffaa6af]" started-at="2024-09-11T22:12:12 IST" name="CleanUp" finished-at="2024-09-11T22:12:12 IST" duration-ms="132" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CleanUp -->
+      </class> <!-- com.test.Mavenpractise2.Multitest2 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
