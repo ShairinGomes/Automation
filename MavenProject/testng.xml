@@ -5,6 +5,8 @@
     <classes>
       <class name="com.test2.MultiTest"/>
       <class name="com.test2.Multitest2"/>
+      <class name="com.test2.Ebay"/>
+      
     </classes>
   </test> <!-- Testhgdshgfdsfgdshfghdgfjsg -->
 </suite> <!-- Suite -->
