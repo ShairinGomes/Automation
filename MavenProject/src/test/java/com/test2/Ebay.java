@@ -4,10 +4,13 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.interactions.Actions;
+import org.testng.annotations.Test;
 
 public class Ebay {
+	
+	@Test
 
-	public static void main(String[] args) throws InterruptedException {
+	public void EbayTest() throws InterruptedException {
 		// TODO Auto-generated method stub
 
 		WebDriver driver = new ChromeDriver();
